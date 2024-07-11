@@ -1,0 +1,132 @@
+/* styles.css */
+body {
+    background-color: rgb(44, 141, 206);
+    color: white;
+}
+
+img.right {
+    float: right;
+    margin: 10px;
+    width: 300px;
+    height: 300px;
+}
+
+img.left {
+    float: left;
+    margin: 10px;
+    width: 500px;
+    height: 300px;
+}
+
+h2, p {
+    clear: both;
+}
+
+table {
+    margin: 20px auto;
+    background-color: grey;
+    color: white;
+}
+.topnav {
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: center;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: rgb(84, 170, 223);
+  }
+  
+  .topnav a.active {
+    color: white;
+  }
+
+
+  /* styles.css */
+body {
+    
+    color: white;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+}
+
+.container img {
+    margin-right: 20px;
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.container img.left {
+    width: 500px;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+table {
+    margin: 20px auto;
+    background-color: grey;
+    color: white;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: rgb(45, 121, 203);
+}
+
+
+  /* Climatic.css */
+body {
+    background-color: #477ca7;
+    color: white;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+}
+
+.container img {
+    margin-right: 20px;
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.container img.left {
+    width: 500px;
+}
